@@ -11,3 +11,5 @@ How to run:
 For a more in-depth discussion of the project and explanation of the environment, see report.pdf.
 
 The experiment setup certainly isn't perfect - further improvement to this code (such as results aggregation over multiple seeds) and extensions to the analysis are currently underway.
+
+NOTE: If GitHub is being weird about PDFs (which it seems to be for me), find my report here: https://drive.google.com/file/d/1Nocw_YXMu2jS8LR-Hvz15a7xiDTAs-vV/view?usp=sharing
